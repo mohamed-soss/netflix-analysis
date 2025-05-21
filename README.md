@@ -19,9 +19,8 @@ Key features include:
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/netflix-sql-analysis.git
+   https://github.com/mohamed-soss/netflix-analysis.git
    ```
-   (Replace `your-username` and `netflix-sql-analysis` with your GitHub username and desired repo name.)
 
 2. **Set Up the Database**:
    - Create a new database in SQL Server (e.g., `NetflixDB`).
